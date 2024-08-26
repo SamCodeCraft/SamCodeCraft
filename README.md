@@ -20,4 +20,5 @@ I'm a passionate software engineer from Kenya 🇰🇪, with a deep enthusiasm f
 📫 **Contact Me**
   Feel free to reach out if you want to collaborate or just have a chat about coding, superbikes, or anything else!
 
-LinkedIn:linkedin.com/in/samuel-siyajari-970365167
+**LinkedIn:** [Siyajari Samuel](https://linkedin.com/in/samuel-siyajari-970365167)
+

@@ -5,10 +5,8 @@ I'm a passionate software engineer from Kenya 🇰🇪, with a deep enthusiasm f
 
 ### 💻 Technologies
 
-**JavaScript**,
+**JavaScript**
 **Python**
-**React**
-**Flask**
 
 ## 🌍 Interests: Superbikes,  Cappuccino
 

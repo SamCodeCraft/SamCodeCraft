@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello, I'm Siyajari Samuel 👋
 
-<!--
-**SamCodeCraft/SamCodeCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer from Kenya 🇰🇪, with a deep enthusiasm for open-source projects that bring people together globally, propelling us toward a brighter future. When I'm not coding, you'll find me riding superbikes 🏍️,sipping on cappuccino ☕ to stay focused on my projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies
+
+**JavaScript**,
+**Python**
+**React**
+**Flask**
+
+## 🌍 Interests: Superbikes,  Cappuccino
+
+## 🚀 Projects:
+- **MyDuka**: An inventory app for stock management and reporting.
+- **PesaBank**: A banking application for account management.
+  
+🤝 Let's connect and build something amazing together!
+
+📫 **Contact Me**
+  Feel free to reach out if you want to collaborate or just have a chat about coding, superbikes, or anything else!
+
+LinkedIn:linkedin.com/in/samuel-siyajari-970365167

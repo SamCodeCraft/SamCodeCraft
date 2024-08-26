@@ -1,4 +1,4 @@
-## Hello, I'm Siyajari Samuel 👋
+## Hello, I'm Samuel 👋
 
 I'm a passionate software engineer from Kenya 🇰🇪, with a deep enthusiasm for open-source projects that bring people together globally, propelling us toward a brighter future. When I'm not coding, you'll find me riding superbikes 🏍️,sipping on cappuccino ☕ to stay focused on my projects.
 

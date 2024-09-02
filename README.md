@@ -3,7 +3,7 @@
 I'm a passionate software engineer from Kenya 🇰🇪, with a deep enthusiasm for open-source projects that bring people together globally, propelling us toward a brighter future. When I'm not coding, you'll find me riding superbikes 🏍️,sipping on cappuccino ☕ to stay focused on my projects.
 
 
-Software Engineer | Portfolio: [Your Portfolio](https://portofolio-pearl-five.vercel.app
+Software Engineer | Portfolio: [Portfolio](https://docs.google.com/document/d/115WXCw12cqaaqp1jffu-18I1iS-LaNdl1yn6F6QV5sI/edit?pli=1)
 )
 
 ### 🛠️ Languages and Tools

@@ -5,74 +5,16 @@ I'm a passionate software engineer from Kenya 🇰🇪, with a deep enthusiasm f
 
 Software Engineer | Portfolio: [Portfolio](https://portofolio-pearl-five.vercel.app/)
 
-### 🛠️ Languages and Tools
+## 🛠️ My Toolbox
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+| **Property**                 | **Data**                                                                                                                                                                                                                                                                       |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages / IDE**           | <a href="#"><img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a> <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> |
+| **Domain Knowledge**          | <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-239120?style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/badge/Computer%20Science-00599C?style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/badge/Software%20Development-FF6F00?style=for-the-badge"></a> |
+| **CI / CD**                   | <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> |
+| **Databases**                 | <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> |
+| **Machine Learning / Deep Learning frameworks** | <a href="#"><img src="https://img.shields.io/badge/ChatGPT-00A69C?style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/badge/PyTorch-Learning%20Now-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Learning%20Now-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a> |
 
-  <div style="text-align: center; padding: 10px; background-color: #E34F26; border-radius: 8px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    </a>
-    <span style="color: white; margin-left: 8px;">HTML</span>
-  </div>
-
-  <div style="text-align: center; padding: 10px; background-color: #1572B6; border-radius: 8px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    </a>
-    <span style="color: white; margin-left: 8px;">CSS</span>
-  </div>
-
-  <div style="text-align: center; padding: 10px; background-color: #7952B3; border-radius: 8px;">
-    <a href="https://getbootstrap.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-    </a>
-    <span style="color: white; margin-left: 8px;">Bootstrap</span>
-  </div>
-
-  <div style="text-align: center; padding: 10px; background-color: #F7DF1E; border-radius: 8px;">
-    <a href="https://www.javascript.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <span style="color: black; margin-left: 8px;">JavaScript</span>
-  </div>
-
-  <div style="text-align: center; padding: 10px; background-color: #3776AB; border-radius: 8px;">
-    <a href="https://www.python.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <span style="color: white; margin-left: 8px;">Python</span>
-  </div>
-
-  <div style="text-align: center; padding: 10px; background-color: #61DAFB; border-radius: 8px;">
-    <a href="https://reactjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    </a>
-    <span style="color: black; margin-left: 8px;">React</span>
-  </div>
-
-  <div style="text-align: center; padding: 10px; background-color: #000000; border-radius: 8px;">
-    <a href="https://flask.palletsprojects.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-    </a>
-    <span style="color: white; margin-left: 8px;">Flask</span>
-  </div>
-
-  <div style="text-align: center; padding: 10px; background-color: #4479A1; border-radius: 8px;">
-    <a href="https://www.mysql.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <span style="color: white; margin-left: 8px;">MySQL</span>
-  </div>
-
-  <div style="text-align: center; padding: 10px; background-color: #336791; border-radius: 8px;">
-    <a href="https://www.postgresql.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-    </a>
-    <span style="color: white; margin-left: 8px;">PostgreSQL</span>
-  </div>
-
-</div>
 
  
 ## 🌍 Interests: Superbikes,  Cappuccino

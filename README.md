@@ -1,6 +1,11 @@
 ## Hello, I'm Samuel 👋
 
-I'm a passionate software engineer from Kenya 🇰🇪, with a deep enthusiasm for open-source projects that bring people together globally, propelling us toward a brighter future. When I'm not coding, you'll find me riding superbikes 🏍️,sipping on cappuccino ☕ to stay focused on my projects.
+<div align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/-I'm%20a%20passionate%20software%20engineer%20from%20Kenya%20🇰🇪%20,%20with%20a%20deep%20enthusiasm%20for%20open--source%20projects%20that%20bring%20people%20together%20globally,%20propelling%20us%20toward%20a%20brighter%20future.%20When%20I'm%20not%20coding,%20you'll%20find%20me%20riding%20superbikes%20🏍️%20sipping%20on%20cappuccino%20☕%20to%20stay%20focused%20on%20my%20projects.-brightblue?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</div>
+
 
 
 Software Engineer | Portfolio: [Portfolio](https://portofolio-pearl-five.vercel.app/)

@@ -2,13 +2,14 @@
 
 <div align="center">
   <a href="#" style="text-decoration: none;">
-    <div style="display: inline-block; background-color: #007BFF; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <span style="font-size: 22px; font-weight: bold; color: white; text-align: center; display: inline-block;">
+    <div style="display: inline-block; background-color: #007BFF; padding: 20px 30px; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2);">
+      <span style="font-size: 28px; font-weight: bold; color: white; line-height: 1.6;">
         I'm a passionate software engineer from Kenya 🇰🇪, with a deep enthusiasm for open-source projects that bring people together globally, propelling us toward a brighter future. When I'm not coding, you'll find me riding superbikes 🏍️, sipping on cappuccino ☕ to stay focused on my projects.
       </span>
     </div>
   </a>
 </div>
+
 
 
 

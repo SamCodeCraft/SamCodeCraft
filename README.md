@@ -1,29 +1,22 @@
-## Hello, I'm Samuel 👋
+# Hello, I'm Samuel 👋
 
 <div align="center">
-    <a href="#">
-        <img src="https://img.shields.io/badge/-I'm%20a%20passionate%20software%20engineer%20from%20Kenya%20🇰🇪,-brightblue?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/-with%20a%20deep%20enthusiasm%20for%20open--source%20projects%20that%20bring%20people%20together%20globally,-brightblue?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/-propelling%20us%20toward%20a%20brighter%20future.-brightblue?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/-When%20I'm%20not%20coding,%20you'll%20find%20me%20riding%20superbikes%20🏍️%20and%20sipping%20cappuccino%20☕,-brightblue?style=for-the-badge&logo=github&logoColor=white">
-    </a>
+    <img src="https://img.shields.io/badge/Software%20Engineer-Kenya%20🇰🇪-brightgreen?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white">
+    <img src="https://img.shields.io/badge/Superbikes%20🏍️-Cappuccino%20☕-orange?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+---
+
+## 👨‍💻 About Me
+I'm a passionate **Software Engineer** from **Kenya** 🇰🇪, with a deep love for building open-source projects that solve real-world problems and bring people together. I believe in the power of technology to create a brighter future for everyone.
+
+When I'm not coding, you'll find me riding superbikes 🏍️ or enjoying a cup of cappuccino ☕.
+
+---
 
 
-
-
-
-Software Engineer | Portfolio: [Portfolio](https://my-portofolio-lime-one.vercel.app
-)
-
-## 🛠️ My Toolbox
+## 🛠️ Technologies & Tools
 
 | **Property**                 | **Data**                                                                                                                                                                                                                                                                       |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -35,17 +28,29 @@ Software Engineer | Portfolio: [Portfolio](https://my-portofolio-lime-one.vercel
 
 
  
-## 🌍 Interests: Superbikes,  Cappuccino
+---
 
-## 🚀 Projects:
-- **MyDuka**: An inventory app for stock management and reporting.
-- **PesaBank**: A banking application for account management.
-  
-🤝 Let's connect and build something amazing together!
+## 🔥 Featured Projects
+Here are some of my favorite projects I've worked on:
 
-📫 **Contact Me**
+- **[MyDuka]([link](https://samcodecraft.github.io/MydukaApp-client/))**: An inventory app for stock management and reporting.
+- **[PesaBank]([link](https://github.com/SamCodeCraft/Pesabank-frontend))**: A banking application for account management.
 
-  Feel free to reach out if you want to collaborate or just have a chat about coding, superbikes, or anything else!
+---
 
-**LinkedIn:** [Siyajari Samuel](https://linkedin.com/in/samuel-siyajari-970365167)
 
+## 🤝 Let's Connect!
+I'm always open to collaborating on exciting projects or just chatting about tech. Feel free to reach out:
+
+- **Email**: [siyajalis@gmail.com](mailto:siyajalis@gmail.com)
+- **LinkedIn**: [Samuel Siyajari](https://linkedin.com/in/samuel-siyajari-970365167)
+- **Portfolio**: [My Portfolio](https://my-portofolio-lime-one.vercel.app)
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+    <a href="https://github.com/yourusername?tab=followers">
+        <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers">
+    </a>
+</div>

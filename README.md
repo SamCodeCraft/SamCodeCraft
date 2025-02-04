@@ -33,8 +33,8 @@ When I'm not coding, you'll find me riding superbikes 🏍️ or enjoying a cup 
 ## 🔥 Featured Projects
 Here are some of my favorite projects I've worked on:
 
-- **[MyDuka]([link](https://samcodecraft.github.io/MydukaApp-client/)**: An inventory app for stock management and reporting.
-- **[PesaBank]([link](https://github.com/SamCodeCraft/Pesabank-frontend)**: A banking application for account management.
+- **[MyDuka]([link](https://samcodecraft.github.io/MydukaApp-client/))**: An inventory app for stock management and reporting.
+- **[PesaBank]([link](https://github.com/SamCodeCraft/Pesabank-frontend))**: A banking application for account management.
 
 ---
 
